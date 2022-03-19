@@ -1,0 +1,1 @@
+pyinstaller Main.py --add-data 'img;img' --add-data 'snd;snd' -F --icon "C:\Users\alexl\school\A Levels\maths\Not-Central-Limit-Theorem\img\icon.ico"
